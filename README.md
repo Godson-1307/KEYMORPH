@@ -5,6 +5,13 @@ KEYMORPH is a **Language Modelling and Text Analytics (LMTA) mini-project** that
 
 The system combines a polymorphic encoding pipeline with a Bidirectional Gated Recurrent Unit (BiGRU) and Bahdanau Attention to explore the recovery of corrupted message sequences.
 
+## 🖥️ Dashboard Preview
+
+![KEYMORPH Dashboard](screenshots/KEYMORPH-dashboard.jpg)
+
+*The KEYMORPH interface showing the transmission control panel,
+tactical spectrum analyzer, and neural recovery metrics.*
+
 ## 🎯 Project Objectives
 
 - Explore dynamic, seed-dependent Morse-style encoding.
